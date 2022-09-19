@@ -16,10 +16,10 @@
  -->
  
 ### 👨‍💻Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,py,linux,git,c,lua,django&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,docker,kubernetes,linux,git,c,visualstudio,cmake&theme=dark)](https://skillicons.dev)
 
 ### 📝Todo List:
-[![Todo](https://skillicons.dev/icons?i=docker,kubernetes,nginx,cmake,rust&theme=dark)](https://skillicons.dev)
+[![Todo](https://skillicons.dev/icons?i=flutter,cocos,rust&theme=dark)](https://skillicons.dev)
 
 <!-- Centering Icons -->
 <!--
