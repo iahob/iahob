@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,docker,kubernetes,linux,git,c,visualstudio,cmake&theme=dark)](https://skillicons.dev)
 
 ### 📝Todo List:
-[![Todo](https://skillicons.dev/icons?i=flutter,h5,rust&theme=dark)](https://skillicons.dev)
+[![Todo](https://skillicons.dev/icons?i=flutter,js,html,nodejs,rust&theme=dark)](https://skillicons.dev)
 
 <!-- Centering Icons -->
 <!--
