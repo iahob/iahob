@@ -16,7 +16,7 @@
  -->
  
 ### 👨‍💻Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,docker,kubernetes,linux,git,c,visualstudio,cmake&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cpp,c,redis,vim,mysql,mongodb,docker,kubernetes,linux,git,visualstudio,cmake&theme=dark)](https://skillicons.dev)
 
 ### 📝Todo List:
 [![Todo](https://skillicons.dev/icons?i=flutter,js,html,nodejs,rust&theme=dark)](https://skillicons.dev)
